@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" src ="https://user-images.githubusercontent.com/33397468/44625269-9616d280-a8c2-11e8-8031-22597b7d0655.jpg"/></p>
 
 
-# EightThreeSearch
+# NLPSearch
 
 ## Description
 
