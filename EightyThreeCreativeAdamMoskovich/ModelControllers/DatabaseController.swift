@@ -9,6 +9,7 @@
 import Foundation
 
 class DatabaseController {
+    
     //
     // MARK: - Properties
     //
@@ -19,12 +20,9 @@ class DatabaseController {
     var databaseDict: [String:[String]] = [:]
     var searchResults: [String] = []
     
-    
-    
     //
     // MARK: - Methods
     //
-
     /// Converts the database into a dictionary [keyWord:[ProductNames]], the will reduce BigO when searching
     func memoizationKeyWords() {
         let database = NSArray(contentsOf: Bundle.main.url(forResource: "productDatabase", withExtension: "plist")!) as! [[String: Any]]
@@ -86,7 +84,6 @@ class DatabaseController {
         })
         identifyingTokens(in: lemmatizedString)
     }
-    
     
     /// catagories the words into grammatical groups allowing use to extract only the groups most likely to contain useful information, it also applies a second filter of 'stop words' as discribed in the Filter file
     ///

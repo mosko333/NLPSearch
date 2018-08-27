@@ -9,6 +9,7 @@
 import UIKit
 
 class SearchResultTableViewCell: UITableViewCell {
+    
     //
     // MARK: - Outlets
     //
