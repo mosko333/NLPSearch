@@ -22,8 +22,8 @@ An iOS project that searches a database and provides results from conversational
 
 <br/>
 
-<img width="31%" src ="https://user-images.githubusercontent.com/33397468/44643332-61238200-a98d-11e8-9bce-6eedd0a0b9c2.png"/> 
-<img width="31%" src ="https://user-images.githubusercontent.com/33397468/44643333-61238200-a98d-11e8-9c64-b18183748154.png"/>
-<img width="31%" src ="https://user-images.githubusercontent.com/33397468/44643334-61238200-a98d-11e8-8809-ee4c76033910.png"/>
+<img width="30%" src ="https://user-images.githubusercontent.com/33397468/44643332-61238200-a98d-11e8-9bce-6eedd0a0b9c2.png"/> 
+<img width="30%" src ="https://user-images.githubusercontent.com/33397468/44643333-61238200-a98d-11e8-9c64-b18183748154.png"/>
+<img width="30%" src ="https://user-images.githubusercontent.com/33397468/44643334-61238200-a98d-11e8-8809-ee4c76033910.png"/>
 
 <br/><br/><br/>
