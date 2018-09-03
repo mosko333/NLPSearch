@@ -9,7 +9,7 @@ An iOS project that searches a database and provides results from conversational
 
 ## What I Used:
 
-* Memorization to improve BigO and other optimization techniques
+* Memoization to improve BigO and other optimization techniques
 * Pulling from a plist file for data
 * To lemmatise and identify tokens, I used NSLinguisticTagger
 * A stop word dictionary for improved filtering
