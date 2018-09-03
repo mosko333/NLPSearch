@@ -7,16 +7,16 @@
 
 An iOS project that searches a database and provides results from conversational user input using natural language processing
 
-## What I Used
+## What I Used:
 
-* Memoization to improve BigO and other optimization technics
-* Pulling form a plist file for data
-* To lemmatise and identify tokens I used NSLinguisticTagger
+* Memoization to improve BigO and other optimization techniques
+* Pulling from a plist file for data
+* To lemmatise and identify tokens, I used NSLinguisticTagger
 * A stop word dictionary for improved filtering
-* The Speech framework to record and transcribe, this enables voice searches
+* The Speech framework to record and transcribe. This enables voice searches
 * IBDesignables to create a nice looking table view
 
-## Screen Shots
+## Screenshots:
 <br/>
 <p align="center"><img width="32%" src ="https://user-images.githubusercontent.com/33397468/44643341-684a9000-a98d-11e8-892f-a1defa745b48.gif"/></p>
 
